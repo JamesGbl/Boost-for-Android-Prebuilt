@@ -2,7 +2,9 @@ Prebuilt Boost libraries
 ====
 
 Prebuilt Boost 1.53 libraries. Built for arm, arm-v7a, x86.
-Prebuilt some Boost 1.61 libraries, needed for [i2pd](https://github.com/PurpleI2P/i2pd). Built for arm, arm-v7a, x86.
+
+Prebuilt some Boost 1.61 libraries, needed for 
+[i2pd](https://github.com/PurpleI2P/i2pd). Built for arm, arm-v7a, x86.
 
 Released so you don't have to spend a day messing around with scripts just in include Boost!
 
